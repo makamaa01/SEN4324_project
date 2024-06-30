@@ -1,5 +1,3 @@
-# SEN4324_project group 7
-      # Title: E_commerce Website
-
-          ## Description: It's an online store where users can browse products, add them to a cart, and check out.
+# SEN4324_project group 1
+      : JIBRIL SHUAIBU NAS/STE/20/1046 I CONTRIBUTED BY UPLOADING THE ORDERPLACED.JSFILE THAT IS PART OF THE MAIN PROJECT
     
